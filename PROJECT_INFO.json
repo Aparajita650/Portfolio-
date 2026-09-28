@@ -1,0 +1,7 @@
+{
+  "framework": "React 19 + Vite",
+  "styling": "Tailwind CSS v4",
+  "deployment": "Vercel",
+  "resume_source": "Aparajita.cv(8470855650).pdf",
+  "resume_included": true
+}
